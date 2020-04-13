@@ -1,2 +1,0 @@
-# HelloCar
-Created with CodeSandbox
